@@ -1,5 +1,2 @@
-# class-management-starter-template
-
-This is the Starter Template for Class Management Application
-
-https://www.youtube.com/watch?v=xwMGdXHHO2U
+# learning-management-system
+This project is software application that provides the framework that handles all aspects of the learning process – it's where you house, deliver, and track your training content
